@@ -14,5 +14,5 @@
 
 若是无法全局替换 node_modules 文件的 "%_prog%" 需要暂时删除红框部分，替换完再添加上。（【文件-首选项-设置】搜索 Search: Exclude）如图
 
-![img](./pictures/clipboard.png)
+![img](.\\pictures\\clipboard.png)
 
