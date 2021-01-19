@@ -5,11 +5,11 @@
 使用vue-cli生成的项目，会自动配好相关的设置。
 如下图找到对应的文件，productionGzip改为true，开启Gzip压缩
 
-![image-20201024184338841](.\\pictures\\image-20201024184338841.png)
+![image-20201024184338841](https://github.com/ChenYiGeEr/the_road_to_top_programmer/blob/main/MDs/Vue/pictures/image-20201024184338841.png)
 
 ###### 2.找到下图文件，这里是配置Gzip的位置
 
-![image-20201024184741014](.\\pictures\\image-20201024184741014.png)
+![image-20201024184741014](https://github.com/ChenYiGeEr/the_road_to_top_programmer/blob/main/MDs/Vue/pictures/image-20201024184741014.png)
 
 ```VUE
 webpackConfig.plugins.push(
